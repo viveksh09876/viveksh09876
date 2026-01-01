@@ -9,7 +9,7 @@ I’m currently focusing on **full-stack development with Java (Spring Boot)** a
 ## 🚀 About Me
 
 - 💼 Full-Stack developer  
-- 🧠 Strong expertise in **React.js**, **TypeScript**, and **Micro-Frontends**  
+- 🧠 Strong expertise in **React.js**, **Javascript**, **TypeScript**, and **Micro-Frontends**  
 - 🔄 Deepening backend skills in **Java**, **Spring Boot**, **JWT Authentication**, **Microservices**, **Docker**, and **CI/CD**
 - 🤖 Exploring AI / LLMs with **OpenAI, Vector DBs, RAG, and LangChain**
 - 🌱 Always learning & building — love solving real-world problems
@@ -21,8 +21,8 @@ I’m currently focusing on **full-stack development with Java (Spring Boot)** a
 
 | Frontend | Backend | Databases | DevOps | AI / Tools |
 |----------|---------|-----------|--------|-------------|
-| React, Next.js | Java, Spring Boot | MySQL, PostgreSQL | Docker, GitHub Actions | OpenAI, LangChain |
-| TypeScript | REST, GraphQL | MongoDB | Kubernetes (learning) | Vector DBs, RAG |
+| React, Next.js | Node.Js, Java, Spring Boot | MySQL, PostgreSQL | Docker, GitHub Actions | OpenAI, LangChain |
+| Javascript, TypeScript | REST, GraphQL, Fast API | MongoDB | Kubernetes (learning) | Vector DBs, RAG |
 
 ---
 
